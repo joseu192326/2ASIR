@@ -7,7 +7,6 @@ Este proyecto me divierte
 
 ## Tecnologías usadas
 - GitHub
-- Markdown
 
 ## Instrucciones de uso
 1. Clona el repositorio
